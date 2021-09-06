@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368212161210",
+    "project_id": "printoverit2",
+    "storage_bucket": "printoverit2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368212161210:android:e1eb177511aa1c44428883",
+        "android_client_info": {
+          "package_name": "com.example.printoverit2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368212161210-enhjstump9qngh9jk0gkfjae6ud6du4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATbZ7Z8elvkIElL3rKOVXfFuUkQlKT0f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368212161210-enhjstump9qngh9jk0gkfjae6ud6du4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
